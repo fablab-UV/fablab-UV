@@ -1,4 +1,4 @@
-# Bienvenidos al repositorio de FabLab de la Universidad de Valparaíso
+# Bienvenidos al FabLab de la Universidad de Valparaíso
 
 ![img_logo_blanco](./img/img_logo_blanco.png)
 
