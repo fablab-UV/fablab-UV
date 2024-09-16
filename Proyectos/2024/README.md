@@ -5,6 +5,8 @@ Bienvenidos a la colección de proyectos del FabLab UV para el año 2023. Aquí 
 ## Lista de Proyectos
 
 - [Beyond The Scope](https://github.com/ixyz022/BeyondTheScope): Exploración interactiva de astonomia en realidad virtual
+- [Dental articulator](https://github.com/v3c70rCR/dental-articulator): Desarrollo de material docente para Odontologia. 
+
 
 ## Instrucciones para Contribuir
 
