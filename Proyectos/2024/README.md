@@ -1,4 +1,4 @@
-# Proyectos FabLab 2023
+# Proyectos FabLab 2024
 
 Bienvenidos a la colección de proyectos del FabLab UV para el año 2023. Aquí encontrarás una lista de todos los proyectos innovadores desarrollados por nuestra comunidad este año.
 
