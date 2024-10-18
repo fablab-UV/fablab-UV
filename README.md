@@ -9,6 +9,8 @@
 
 # <p align="center">Bienvenidos al FabLab de la Universidad de Valparaíso</p>
 
+---
+
 ## Proyectos
 
 Explora los proyectos realizados cada año y descubre las innovaciones del FabLab UV:
