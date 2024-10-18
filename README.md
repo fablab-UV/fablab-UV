@@ -1,3 +1,6 @@
+# <p align="center">Bienvenidos al FabLab de la Universidad de Valparaíso</p>
+
+
 <p align="center">
   <img src="./img/img_logo_blanco.png" alt="img_logo_blanco" width="400">
 </p>
@@ -6,8 +9,6 @@
 <p align="center">
   Laboratorio de desarrollo digital que ofrece espacio, herramientas y comunidad para innovadores y creadores. Este repositorio sirve como índice para los proyectos desarrollados dentro de nuestra comunidad.
 </p>
-
-# <p align="center">Bienvenidos al FabLab de la Universidad de Valparaíso</p>
 
 ---
 
