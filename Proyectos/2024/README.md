@@ -21,3 +21,8 @@ Desarrollo de un sitio web institucional para el FabLab UV, con el objetivo de m
 * **[Giovanni Vasquez](https://github.com/Giovvnni)** - *Ingeniero Civil Informático, generación 2020.* Ayudante de FabLab UV.
 
 ---
+
+### [Oclusores dentales ](https://github.com/v3c70rCR/dental-articulator)
+En colaboración con la Facultad de Odontología, se desarrolló un proyecto para diseñar articuladores dentales basados ​​en ejemplos antiguos con el objetivo de proporcionar material educativo para la práctica estudiantil..
+ 
+---
