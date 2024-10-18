@@ -5,10 +5,6 @@
 
 # <p align="center">Bienvenidos al FabLab de la Universidad de Valparaíso</p>
 
-<p align="center">
-  Laboratorio de desarrollo digital que ofrece espacio, herramientas y comunidad para innovadores y creadores. Este repositorio sirve como índice para los proyectos desarrollados dentro de nuestra comunidad.
-</p>
-
 ---
 
 ## Proyectos
