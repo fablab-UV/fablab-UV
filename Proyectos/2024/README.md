@@ -26,3 +26,6 @@ Desarrollo de un sitio web institucional para el FabLab UV, con el objetivo de m
 En colaboración con la Facultad de Odontología, se desarrolló un proyecto para diseñar articuladores dentales basados ​​en ejemplos antiguos con el objetivo de proporcionar material educativo para la práctica estudiantil..
  
 ---
+
+### [Diseño de Robot Continuo para Exploración en Terreno](https://github.com/Erj5/Continuum-Robot)
+Inspirado en la flexibilidad de la columna vertebral humana, este proyecto presenta el desarrollo de un robot continuo, diseñado para la exploración en terrenos complejos e inaccesibles. Utilizando una arquitectura híbrida de nodos de silicona y materiales rígidos, junto con componentes electrónicos controlados por Arduino, el robot es capaz de adaptarse a distintos entornos y superar obstáculos con facilidad. La fabricación en 3D, tanto de los nodos rígidos como de los moldes de silicona flexibles, permitió crear una estructura altamente adaptable y precisa, ideal para tareas de exploración en condiciones difíciles.
