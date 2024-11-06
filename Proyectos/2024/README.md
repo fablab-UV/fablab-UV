@@ -27,7 +27,7 @@ En colaboración con la Facultad de Odontología, se desarrolló un proyecto par
  
 ---
 
-### [Diseño de Robot Continuo EMG version]([https://github.com/Erj5/Continuum-Robot](https://github.com/FabLab-Projects/ProyectoRobotContinuo3))
+### [Diseño de Robot Continuo EMG version](https://github.com/FabLab-Projects/ProyectoRobotContinuo3)
 This project focuses on developing a flexible robot, created using 3D printing (PLA), silicone molds, and nylon threads. The robot is equipped with a camera end-effector and is controlled by electromyography (EMG) signals, which correspond to the electrical signals present in human muscles.
 
 ---
