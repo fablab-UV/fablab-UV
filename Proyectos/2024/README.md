@@ -29,3 +29,10 @@ En colaboración con la Facultad de Odontología, se desarrolló un proyecto par
 
 ### [Diseño de Robot Continuo para Exploración en Terreno](https://github.com/Erj5/Continuum-Robot)
 Inspirado en la flexibilidad de la columna vertebral humana, este proyecto presenta el desarrollo de un robot continuo, diseñado para la exploración en terrenos complejos e inaccesibles. Utilizando una arquitectura híbrida de nodos de silicona y materiales rígidos, junto con componentes electrónicos controlados por Arduino, el robot es capaz de adaptarse a distintos entornos y superar obstáculos con facilidad. La fabricación en 3D, tanto de los nodos rígidos como de los moldes de silicona flexibles, permitió crear una estructura altamente adaptable y precisa, ideal para tareas de exploración en condiciones difíciles.
+
+---
+
+### [Diseño de Robot Continuo EMG version]([https://github.com/Erj5/Continuum-Robot](https://github.com/FabLab-Projects/ProyectoRobotContinuo3))
+This project focuses on developing a flexible robot, created using 3D printing (PLA), silicone molds, and nylon threads. The robot is equipped with a camera end-effector and is controlled by electromyography (EMG) signals, which correspond to the electrical signals present in human muscles.
+
+---
