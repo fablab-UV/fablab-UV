@@ -60,7 +60,7 @@ Inspirado en la flexibilidad de la columna vertebral humana, este proyecto prese
 ### [Sensores humedad de suelo](https://github.com/v3c70rCR/Sensores-humedad-de-suelo)
 Este proyecto evalúa el impacto de las obras de captación y acumulación de agua y suelo (OCAS) implementadas en el Valle de Colliguay, Chile, para optimizar la infiltración y retención de agua. Mediante el uso de sondas capacitivas para medir la humedad del suelo y un análisis de balance hídrico, se busca determinar la efectividad de estas intervenciones en la recarga de acuíferos y la sostenibilidad agrícola en una zona afectada por la megasequía.
 
-* **[Valeria Gonzáles]()** - *Ingeniera Civil.* Investigadora.
+* **[Valeria González]()** - *Ingeniera Civil.* Investigadora.
 * **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
 
 
