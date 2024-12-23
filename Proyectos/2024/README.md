@@ -34,15 +34,46 @@ This project focuses on developing a flexible robot, created using 3D printing (
 
 * **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
 * **[Maximiliano Antonio](https://github.com/MaximilianoAntonio)** - *Ingeniero Civil Biomédico, generación 2021.* Ayudante de FabLab UV.
-
+* **[Esteban Reyna]()** - *Ingeniero Civil Biomédico.* Ayudante de FabLab UV.
+* **[joaquin Santis]()** - *Ingeniero Civil Biomédico.* Ayudante de FabLab UV.
+  
 ---
 
 ### [Diseño de Robot Continuo para Exploración en Terreno](https://github.com/Erj5/Continuum-Robot)
 Inspirado en la flexibilidad de la columna vertebral humana, este proyecto presenta el desarrollo de un robot continuo, diseñado para la exploración en terrenos complejos e inaccesibles. Utilizando una arquitectura híbrida de nodos de silicona y materiales rígidos, junto con componentes electrónicos controlados por Arduino, el robot es capaz de adaptarse a distintos entornos y superar obstáculos con facilidad. La fabricación en 3D, tanto de los nodos rígidos como de los moldes de silicona flexibles, permitió crear una estructura altamente adaptable y precisa, ideal para tareas de exploración en condiciones difíciles.
 
 * **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
+* **[Maximiliano Antonio](https://github.com/MaximilianoAntonio)** - *Ingeniero Civil Biomédico, generación 2021.* Ayudante de FabLab UV.
+* **[Esteban Reyna]()** - *Ingeniero Civil Biomédico.* Ayudante de FabLab UV.
+* **[joaquin Santis]()** - *Ingeniero Civil Biomédico.* Ayudante de FabLab UV.
+
 
 ---
+
+### [Sensores humedad de suelo](https://github.com/v3c70rCR/Sensores-humedad-de-suelo)
+Este proyecto evalúa el impacto de las obras de captación y acumulación de agua y suelo (OCAS) implementadas en el Valle de Colliguay, Chile, para optimizar la infiltración y retención de agua. Mediante el uso de sondas capacitivas para medir la humedad del suelo y un análisis de balance hídrico, se busca determinar la efectividad de estas intervenciones en la recarga de acuíferos y la sostenibilidad agrícola en una zona afectada por la megasequía.
+
+* **[Valeria González]()** - *Ingeniera Civil.* Asistente de investigación.
+* **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
+
+---
+
+### [Desarrollo-de-Interfaces-para-Rehabilitacion-Robotica](https://github.com/v3c70rCR/Desarrollo-de-Interfaces-para-Rehabilitación-Robotica)
+Curso práctico que integra escaneo 3D, diseño digital e impresión 3D para crear fijaciones personalizadas. Incluye programación de movimientos robóticos y simulación de terapias kinesiológicas pasivas en fantomas.
+
+* **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
+* **[Pablo Reyes]()** - *Ingeniero Civil Electrónico.* Academico ICB.
+
+---
+
+### [Soporte-y-phantom-para-Rayos-X](https://github.com/v3c70rCR/Soporte-y-phantom-para-Rayos-X)
+El proyecto de desarrollo de soportes y phantoms para rayos X, realizado como parte de la asignatura Equipos Médicos IV, busca mejorar la formación práctica de estudiantes de Ingeniería Civil Biomédica. Utilizando tecnologías de fabricación digital, se construyeron phantoms de diferentes materiales y un soporte ajustable para explorar conceptos de calidad de imagen en rayos X, como el efecto penumbra y la magnificación. Este proyecto contribuye al aprendizaje de técnicas avanzadas en imagenología, destacando la necesidad de seguir perfeccionando las resoluciones espaciales para una formación más precisa.
+
+* **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
+* **[Matias Avila]()** - *Ingeniero Civil Biomedico.* Asistente de investigación.
+
+---
+
 
 ### Guías de uso maquinas FabLab
 * **[Sherline Mill 5410](https://github.com/FabLab-Projects/Guia-de-Uso-Sherline-Mill-5410)** - Router CNC genérico
@@ -56,11 +87,5 @@ Inspirado en la flexibilidad de la columna vertebral humana, este proyecto prese
 
 
 ---
-
-### [Sensores humedad de suelo](https://github.com/v3c70rCR/Sensores-humedad-de-suelo)
-Este proyecto evalúa el impacto de las obras de captación y acumulación de agua y suelo (OCAS) implementadas en el Valle de Colliguay, Chile, para optimizar la infiltración y retención de agua. Mediante el uso de sondas capacitivas para medir la humedad del suelo y un análisis de balance hídrico, se busca determinar la efectividad de estas intervenciones en la recarga de acuíferos y la sostenibilidad agrícola en una zona afectada por la megasequía.
-
-* **[Valeria González]()** - *Ingeniera Civil.* Investigadora.
-* **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
 
 
