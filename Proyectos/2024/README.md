@@ -9,6 +9,8 @@
 Este curso ofrece una formación integral en digitalización 3D, fotogrametría y fabricación de réplicas, combinando tecnologías avanzadas con técnicas tradicionales como el moldaje y el vaciado. Los estudiantes aprenden a transformar objetos digitales en réplicas físicas, integrando procesos modernos y artesanales para la conservación y reproducción de piezas tridimensionales.
 
 * **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
+* **[Angélica Pulgar]()** - *Restauradora.* Académica DuocUC.
+
 
 ---
 
