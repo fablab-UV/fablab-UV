@@ -65,7 +65,7 @@ Este proyecto evalúa el impacto de las obras de captación y acumulación de ag
 
 ---
 
-### [Desarrollo-de-Interfaces-para-Rehabilitacion-Robotica](https://github.com/v3c70rCR/Desarrollo-de-Interfaces-para-Rehabilitación-Robotica)
+### [Desarrollo-de-Interfaces-para-Rehabilitacion-Robotica](https://github.com/v3c70rCR/Desarrollo-de-Interfaces-para-Rehabilitacion-Robotica)
 Curso práctico que integra escaneo 3D, diseño digital e impresión 3D para crear fijaciones personalizadas. Incluye programación de movimientos robóticos y simulación de terapias kinesiológicas pasivas en fantomas.
 
 * **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
