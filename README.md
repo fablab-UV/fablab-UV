@@ -37,6 +37,12 @@ Explora los proyectos realizados cada año y descubre las innovaciones del FabLa
           <strong>Proyectos 2024</strong>
         </a>
       </td>
+      <td align="center">
+        <a href="/Proyectos/2025/README.md">
+          <img src="https://via.placeholder.com/150" alt="Proyectos 2025" width="150px"><br>
+          <strong>Proyectos 2025</strong>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
