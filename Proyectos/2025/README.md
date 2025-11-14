@@ -8,7 +8,7 @@
 ### [Digitalizacion y Reproduccion de Ornamentos Arquitectonicos](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-)
 Este curso ofrece una formación integral en digitalización 3D, fotogrametría y fabricación de réplicas, combinando tecnologías avanzadas con técnicas tradicionales como el moldaje y el vaciado. Los estudiantes aprenden a transformar objetos digitales en réplicas físicas, integrando procesos modernos y artesanales para la conservación y reproducción de piezas tridimensionales.
 
-* **[Maria-Ignacia Rojas](https://github.com/v3c70rCR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
+* **[Maria-Ignacia Rojas](https://github.com/LoudlyJupiter)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 
 ---
 
