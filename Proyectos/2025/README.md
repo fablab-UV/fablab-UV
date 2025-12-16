@@ -19,7 +19,7 @@ Este proyecto integra visión por computadora y robótica para controlar una man
 * **[Impresoras 3D SLS](https://github.com/FabLab-Projects/Guia-de-Uso-Impresoras-SLS)** - Sinterit Lisa PRO (Rev. C)
 
 ### Equipo
-[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
+* **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
 ---
 
 
