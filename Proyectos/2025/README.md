@@ -18,8 +18,8 @@ Este proyecto integra visión por computadora y robótica para controlar una man
 * **[Impresoras 3D SLA LCD](https://github.com/FabLab-Projects/Guia-de-Uso-Impresoras-SLA-LCD)** - Formlabs Form 3B+, Creality Halot One Plus LCD
 * **[Impresoras 3D SLS](https://github.com/FabLab-Projects/Guia-de-Uso-Impresoras-SLS)** - Sinterit Lisa PRO (Rev. C)
 
-
-* **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
+### Equipo
+[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
 ---
 
 
