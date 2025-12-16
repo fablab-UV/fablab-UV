@@ -20,9 +20,6 @@ Este proyecto integra visión por computadora y robótica para controlar una man
 
 
 * **[Victor Contreras](https://github.com/v3c70rCR)** - *Diseñador Industrial.* Coordinador área I+D FabLab UV.
-* **[Maximiliano Antonio](https://github.com/MaximilianoAntonio)** - *Ingeniero Civil Biomédico, generación 2021.* Ayudante de FabLab UV.
-
-
 ---
 
 
