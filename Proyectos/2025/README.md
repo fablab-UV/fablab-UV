@@ -8,7 +8,7 @@
 ### [Control de Mano Robótica mediante Cámara, Arduino y Python](https://github.com/fablab-UV/mano_fablab_camara)
 Este proyecto integra visión por computadora y robótica para controlar una mano mecánica a partir de gestos captados por una cámara web. Utiliza OpenCV y MediaPipe para detectar la posición de los dedos y reconocer gestos, mientras que un Arduino y un controlador PCA9685 operan los servomotores que reproducen el movimiento en tiempo real captados por la cámara web. El sistema actualmente permite ejecutar gestos predefinidos y se encuentra en expansión para mejorar la precisión, añadir más gestos y aumentar los grados de movilidad.
 
-* **[Maria-Ignacia Rojas](https://github.com/LoudlyJupiter)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
+* **[Maria-Ignacia Rojas](https://github.com/MariaIgnaciaR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 
 ---
 
