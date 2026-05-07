@@ -6,7 +6,7 @@
 
 ### [](link)
 
-
+* **[Maximiliano Gaete](https://github.com/MaximilianoAntonio)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 * **[Maria-Ignacia Rojas](https://github.com/MariaIgnaciaR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 
 ---
