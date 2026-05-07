@@ -4,7 +4,7 @@
 
 ---
 
-### [](link)
+### [Taller CV-HMI: Control Gestual mediante Visión Artificial] (https://github.com/fablab-UV/Taller-HMI-por-Gestos-FABLAB-UV-2026-/tree/main)
 
 * **[Maximiliano Gaete](https://github.com/MaximilianoAntonio)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 * **[Maria-Ignacia Rojas](https://github.com/MariaIgnaciaR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
