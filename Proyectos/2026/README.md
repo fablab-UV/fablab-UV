@@ -4,11 +4,14 @@
 
 ---
 
-### [Taller CV-HMI: Control Gestual mediante Visión Artificial] (https://github.com/fablab-UV/Taller-HMI-por-Gestos-FABLAB-UV-2026-/tree/main)
+### [Taller CV-HMI: Control Gestual mediante Visión Artificial](https://github.com/fablab-UV/Taller-HMI-por-Gestos-FABLAB-UV-2026-/tree/main)
+
+Sistema interactivo basado en visión artificial y detección de landmarks mediante MediaPipe, diseñado para introducir conceptos de Interfaces Hombre-Máquina (HMI), control gestual y procesamiento de video en tiempo real utilizando Python y OpenCV. El taller permite transformar una cámara web en una interfaz de control sin contacto mediante reconocimiento de movimiento de manos.
 
 * **[Maximiliano Gaete](https://github.com/MaximilianoAntonio)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 * **[Maria-Ignacia Rojas](https://github.com/MariaIgnaciaR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 
+---
 ---
 
 ### Guías de uso maquinas FabLab
