@@ -12,7 +12,7 @@ Sistema interactivo basado en visión artificial y detección de landmarks media
 * **[Maria-Ignacia Rojas](https://github.com/MariaIgnaciaR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 
 ---
-### [Otto Ninja XL](https://github.com/fablab-UV/otto-ninja-xl)
+### [Otto Ninja XL](https://github.com/fablab-UV/robot_otto_ninja)
 
 Adaptación del robot open source Otto Ninja XL ([boryspimpek](https://github.com/boryspimpek/Otto_Ninja_XL), modelo 3D [Printables](https://www.printables.com/model/1250758-otto-ninja-xl-remix-version)), rediseñada con los materiales del FabLab UV: el control PS4 fue reemplazado por una página web servida por el propio ESP32 (el robot crea su red WiFi y se maneja con un joystick táctil desde el celular), se agregó un buzzer para sonido con melodías programadas y dos pantallas OLED para los ojos animados. Puede ser mejorado.
 
