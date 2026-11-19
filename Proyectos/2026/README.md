@@ -11,13 +11,22 @@ Sistema interactivo basado en visión artificial y detección de landmarks media
 * **[Maximiliano Gaete](https://github.com/MaximilianoAntonio)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 * **[Maria-Ignacia Rojas](https://github.com/MariaIgnaciaR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 
+---
+### [Otto Ninja XL](https://github.com/fablab-UV/otto-ninja-xl)
+
+Adaptación del robot open source Otto Ninja XL ([boryspimpek](https://github.com/boryspimpek/Otto_Ninja_XL), modelo 3D [Printables](https://www.printables.com/model/1250758-otto-ninja-xl-remix-version)), rediseñada con los materiales del FabLab UV: el control PS4 fue reemplazado por una página web servida por el propio ESP32 (el robot crea su red WiFi y se maneja con un joystick táctil desde el celular), se agregó un buzzer para sonido con melodías programadas y dos pantallas OLED para los ojos animados. Puede ser mejorado.
+
+* **[Maria-Ignacia Rojas](https://github.com/MariaIgnaciaR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
+
+---
+
 ### [Jeringa de Infusión Poseidon](https://github.com/fablab-UV/jeringa-de-infusion-poseidon) 🚧 *En desarrollo*
 
 Adaptación del sistema de bomba de jeringa open source Poseidon ([Pachter Lab, Caltech](https://github.com/pachterlab/poseidon)), rediseñada para varillas de 8 mm y simplificada a un solo canal con Arduino UNO y driver A4988, sin CNC shield. Sistema de bajo costo fabricado con impresión 3D para control de flujo de precisión en aplicaciones de microfluídica y dosificación.
 
 * **[Maximiliano Gaete](https://github.com/MaximilianoAntonio)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 * **[Maria-Ignacia Rojas](https://github.com/MariaIgnaciaR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
----
+
 ---
 
 ### Guías de uso maquinas FabLab
