@@ -24,7 +24,6 @@ Adaptación del robot open source Otto Ninja XL ([boryspimpek](https://github.co
 
 Adaptación del sistema de bomba de jeringa open source Poseidon ([Pachter Lab, Caltech](https://github.com/pachterlab/poseidon)), rediseñada para varillas de 8 mm y simplificada a un solo canal con Arduino UNO y driver A4988, sin CNC shield. Sistema de bajo costo fabricado con impresión 3D para control de flujo de precisión en aplicaciones de microfluídica y dosificación.
 
-* **[Maximiliano Gaete](https://github.com/MaximilianoAntonio)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 * **[Maria-Ignacia Rojas](https://github.com/MariaIgnaciaR)** - *Estudiante Ingeniería Civil Biomédica, generación 2021.* Ayudante de FabLab UV.
 
 ---
